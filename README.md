@@ -1,2 +1,3 @@
 # portfolio
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/> //티스토리 로고
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+<a href="https://hyello-world.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
