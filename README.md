@@ -15,5 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:page_facing_up: **UFO**<br><br>
 
 ## :link: etc
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jhy787)](https://solved.ac/jhy787)<br> 
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhy787)](https://solved.ac/jhy787)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=jhy787)](https://solved.ac/jhy787)<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hyello-world.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> 
